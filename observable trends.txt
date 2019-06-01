@@ -1,0 +1,4 @@
+observable trends:
+1. Urban city has higher total number of rides than suburban and rural cities but lower average fare due to short distance trip. 
+2. Urban city has much more rides and drivers than suburban and rural cities, which should be the target market. 
+3. Compared to urban city, suburban city has lower number of rides and drivers but higher average fares.  
